@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/*기초세팅*/
+body,h1,h2,h3,h4,h5,h6,p,dl,dd{margin:0;}
+body{font-family:'NotoSans',sans-serif; color:#222; min-width:1200px;}
+/*   body{font-family: 'Noto Serif', serif;}    *//*나눔명조체가 이쁨 보통h1,h2,h3,h4,h5,h6,p,dl,dd*/
+/*★★★★★<!--구글폰트 검색해서 noto serif검색해서 noto serif적용하기전 링크걸고 폰트를 적용한거-->★★★★★*/
+img,a{outline:none; border:none;} /* 뭔느낌인지 알겠즹! */
+ul{margin:0; padding:0; list-style:none;}
+a{text-decoration:none; color:#222;}
+#wrap{width:100%;}
+
+.inner{width:1200px; margin:0 auto;}
+.cf:after{content:""; display:block; clear:both;}
+
+#wrap,#container,#footer{width:100%;} /*생략가능*/
