@@ -18,7 +18,7 @@
 .gnb>li{float:left; width:150px; padding-bottom:10px;}
 .gnb li a{font-size:18px; font-weight:700; display:block;}
 
-.lnb{position:absolute; z-index:2000; top:70px; max-height:0; overflow:hidden; transition:max-height 0.7s;}
+.lnb{position:absolute; z-index:1000; top:70px; max-height:0; overflow:hidden; transition:max-height 0.7s;}
 .lnb:before{content:""; display:block; width:150px; height:5px; background:#B4181E;}
 .lnb li{width:150px; line-height:45px; background:rgba(000,000,000,0.6);}
 .lnb li a{font-size:15px; font-weight:200; color:#fff;}

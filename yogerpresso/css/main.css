@@ -6,7 +6,7 @@
 .slider{}
 .slider .mainSlider1{background:url(../images/main1_1.png) no-repeat center center; background-size:cover;  height:700px;}
 .slider .mainSlider2{background:url(../images/main2.png) no-repeat center center; background-size:cover;  height:700px;}
-.m_box{width:600px; height:100px; background:#fff; position:absolute; bottom:0; line-height:100px; text-indent:410px;}
+.m_box{width:600px; height:100px; background:#fff; position:absolute; bottom:0; line-height:100px; text-indent:410px; z-index:1001}
 .m_box a{font-size:25px;}
 .m_box a span{display:block;}
 .slider .slick-dots{position:absolute; top:30px; left:50%; margin-left:-600px;}
