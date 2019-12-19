@@ -37,7 +37,7 @@
 .f_utill li a img{display:block; width:40px;}
 
 #footer .f_text{font-weight:700; padding-bottom:20px;}
-.f_text a{}
+.f_text a:hover{text-decoration:underline;}
 .f_text a span{}
 
 #footer p{font-weight:500;}
